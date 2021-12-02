@@ -1,5 +1,5 @@
-@Library('first-shared-lib@main') 
-db_changes() {
+@Library('first-shared-lib@main') _
+db_changes {
   
   git_repo = "pranitha_banking"
   
